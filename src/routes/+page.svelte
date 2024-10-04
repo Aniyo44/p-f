@@ -1,1 +1,1 @@
-<h1 class="text-blue-500"> TEST </h1>
+<h1 class="text-blue-500"> my personal finance app  </h1>
