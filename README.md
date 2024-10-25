@@ -8,6 +8,7 @@ for exmaple i choose 5 as date while the date is 24-10-2024 ,the intened date is
 
 
 add delete button everywhere 
+numbers should all in this format nn:nn 
 
 
 
